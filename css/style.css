@@ -322,6 +322,9 @@ body {
     .main__block__background {
         padding: 100px 10px 100px 10px;
     }
+    .main__block__btn {
+        font-size: 14px;
+    }
 }
 /*-----------------------------------------------*/
 .story {
@@ -540,19 +543,19 @@ body {
         margin-bottom: 15px;
     }
     .mugs__top__title {
-        font-size: 16px;
+        font-size: 18px;
     }
     .mugs__name a {
-        font-size: 20px;
+        font-size: 22px;
     }
     .mugs__price_new {
-        font-size: 17px;
+        font-size: 18px;
     }
     .mugs__price_old {
-        font-size: 17px;
+        font-size: 18px;
     }
     .mugs__price {
-        font-size: 17px;
+        font-size: 18px;
     }
 }
 /*-----------------------------------------------*/
@@ -908,14 +911,20 @@ body {
         margin-top: 50px;
     }
     .free__top__title {
-        font-size: 14px;
+        font-size: 18px;
         margin: 0 3px;
     }
     .free__item_content-title {
-        font-size: 14px;
+        font-size: 16px;
     }
     .free__item_content {
         display: block;
+    }
+    .free__item_content-text {
+        font-size: 18px;
+    }
+    .free__item_content-btn {
+        font-size: 14px;
     }
 }
 @media (max-width: 425.98px) {
@@ -1142,19 +1151,19 @@ body {
         margin-top: 50px;
     }
     .lifestyle__top__title {
-        font-size: 16px;
+        font-size: 18px;
         margin: 0 5px;
     }
     .lifestyle__title {
-        font-size: 20px;
+        font-size: 22px;
     }
     .lifestyle__text {
         margin-top: 0;
-        font-size: 14px;
+        font-size: 15px;
     }
     .lifestyle__date {
         margin-top: 3px;
-        font-size: 14px;
+        font-size: 15px;
     }
     .lifestyle__info {
         margin-top: 5px;
@@ -1169,13 +1178,13 @@ body {
         padding: 0 0;
     }
     .lifestyle__title {
-        font-size: 19px;
+        font-size: 20px;
     }
     .lifestyle__text {
-        font-size: 13px;
+        font-size: 15px;
     }
     .lifestyle__date {
-        font-size: 13px;
+        font-size: 14px;
     }
 }
 /*-----------------------------------------------*/
@@ -1277,6 +1286,7 @@ body {
     }
     .signup__form__button {
         padding: 15px 20px;
+        font-size: 14px;
     }
     .signup__form__email {
         padding: 15px;
@@ -1483,7 +1493,7 @@ body {
         font-size: 18px;
     }
     .column-footer_right__text {
-        font-size: 17px;
+        font-size: 18px;
     }
     .footer__menu {
         margin-top: 10px;
@@ -1492,7 +1502,7 @@ body {
         margin-bottom: 10px;
     }
     .column-footer_left__text {
-        font-size: 17px;
+        font-size: 18px;
         margin-top: 12px;
     }
     .column-footer_left__email {
@@ -1506,9 +1516,9 @@ body {
         margin-top: 10px;
     }
     .footer__menu__link {
-        font-size: 18px;
+        font-size: 20px;
     }
     .label__footer {
-        font-size: 20px;
+        font-size: 22px;
     }
 }
